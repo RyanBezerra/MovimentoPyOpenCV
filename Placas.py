@@ -35,5 +35,6 @@ while(1):
         break
     prvs = next
 
+# executa
 cap.release()
 cv2.destroyAllWindows()
