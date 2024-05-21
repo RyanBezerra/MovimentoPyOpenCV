@@ -32,6 +32,7 @@ Este script Python utiliza a biblioteca OpenCV para realizar o rastreamento de m
 
 - Python 3.x
 - OpenCV (cv2)
+pip install opencv-python
 
 #### Como usar:
 
